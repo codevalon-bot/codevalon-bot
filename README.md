@@ -24,7 +24,7 @@ Codevalon uses advanced analysis to evaluate your GitHub repositories, commit pa
 
 ## 📈 Active Monitoring
 
-Codevalon is currently monitoring <a class='active-developers'>**`0` developers**</a> worldwide.  
+Codevalon is currently monitoring <a class='active-developers'>**`1` developers**</a> worldwide.  
 These users are being evaluated daily, with their skills and codebases evolving under the constant gaze of the judge.
 
 Want to join them?
