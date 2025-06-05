@@ -24,11 +24,13 @@ Codevalon uses advanced analysis to evaluate your GitHub repositories, commit pa
 
 ## 📈 Active Monitoring
 
-Codevalon is currently monitoring <!-- Developers Count -->**`1,248` developers** worldwide.  
+Codevalon is currently monitoring <a class='active-developers'>**`1,248` developers**</a> worldwide.  
 These users are being evaluated daily, with their skills and codebases evolving under the constant gaze of the judge.
 
 Want to join them?
 Simply **follow [Codevalon](https://github.com/codevalon-bot)** on GitHub to begin your evaluation.
+
+⏰ Last update: <a class='last-update'>**14/55/2025** [(Changes)](https://github.com/)</a>, next update: <a class='next-update'>**24/63/4123**</a>
 
 ## 🔍 Evaluation Criteria
 
